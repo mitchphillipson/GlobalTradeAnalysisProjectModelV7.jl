@@ -13,6 +13,7 @@ NamedArrays = "86f7a689-2022-50b4-a561-43c23ac3c673"
 
 [compat]
 ComputableGeneralEquilibriumHelpers = "0.1.0"
+Documenter = "1"
 Ipopt = "1.7.1"
 JLD2 = "0.5.11"
 JuMP = "1.23.6"
